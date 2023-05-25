@@ -33,10 +33,6 @@ header {
   grid-row-end: 3;
 }
 
-.main-menu ul {
-  display: flex;
-}
-
 .main-menu ul li a {
   color: #FFF;
   display: block;
