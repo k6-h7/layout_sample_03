@@ -28,7 +28,7 @@ header {
 .main-menu {
   background: #333;
   grid-column-start: 1;
-  grid-column-end: 5;
+  grid-column-end: 2;
   grid-row-start: 2;
   grid-row-end: 3;
 }
@@ -50,10 +50,10 @@ header {
 main {
   background: #EEE;
   padding: 20px;
-  grid-column-start: 1;
+  grid-column-start: 2;
   grid-column-end: 4;
-  grid-row-start: 3;
-  grid-row-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 3;
 }
 
 article {
@@ -66,8 +66,8 @@ aside {
   background: #DDD;
   grid-column-start: 4;
   grid-column-end: 5;
-  grid-row-start: 3;
-  grid-row-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 3;
 }
 
 .sub-menu {
@@ -91,6 +91,6 @@ footer {
   text-align: center;
   grid-column: 1;
   grid-column-end: 5;
-  grid-row-start: 4;
-  grid-row-end: 5;
+  grid-row-start: 3;
+  grid-row-end: 4;
 }
